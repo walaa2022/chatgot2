@@ -1,1 +1,1 @@
-# chatgot2
+# chatgpt2
